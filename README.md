@@ -1,8 +1,8 @@
 # Hi, I'm Hariharan S! 👋
 
-## Data Scientist | AI/ML Engineer | Problem Solver
+## AI Engineer | Data Scientist | 3rd Year BTech Student | Problem Solver
 
-I'm an aspiring Data Analyst and AI enthusiast with a strong foundation in statistics, machine learning, deep learning, and big data analytics. I'm passionate about building end-to-end data preprocessing pipelines and solving real-world problems using AI.
+I'm a 3rd-year B.Tech student in Artificial Intelligence and Data Science with a strong foundation in statistics, machine learning, deep learning, and big data analytics. As both an AI Engineer and Data Scientist, I'm passionate about building end-to-end data preprocessing pipelines, developing intelligent systems using advanced AI technologies like RAG and vector databases, and solving real-world problems at scale.
 
 ---
 
@@ -33,6 +33,17 @@ I'm an aspiring Data Analyst and AI enthusiast with a strong foundation in stati
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=flat&logo=devops&logoColor=white)
+
+### AI & Machine Learning
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-4B8BBE?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![LLM Pipelines](https://img.shields.io/badge/LLM%20Pipelines-50C878?style=flat&logoColor=white)
+
+### Data Science & Analytics
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 ---
 
@@ -72,9 +83,11 @@ I'm an aspiring Data Analyst and AI enthusiast with a strong foundation in stati
 
 | Category | Skills |
 |----------|--------|
+| **AI & LLMs** | RAG, Vector Databases, Ollama, LLM Pipelines, Prompt Engineering |
 | **ML/DL** | CNN, LSTM, Ensemble Methods, Random Forest, Gradient Boosting, Stacking |
+| **Data Science** | Scikit-learn, NumPy, Plotly, Data Visualization, Statistical Analysis |
 | **Data Processing** | Data Cleaning, Feature Engineering, EDA, Preprocessing Pipelines |
-| **Analytics** | Data Visualization, Statistical Analysis, Predictive Modeling |
+| **Analytics** | Predictive Modeling, Time-Series Analysis, Healthcare Analytics |
 | **Soft Skills** | Quick Learner, Problem Solving, Communication, Team Collaboration |
 
 ---
@@ -83,7 +96,7 @@ I'm an aspiring Data Analyst and AI enthusiast with a strong foundation in stati
 
 **Bachelor of Technology** in Artificial Intelligence and Data Science  
 *Dr. Mahalingam College of Engineering and Technology, Pollachi | Anna University*  
-2023-2027 | CGPA: 8.5 (Till 5th semester)
+**Currently in 3rd Year** (2023-2027) | CGPA: 8.5 (Till 5th semester)
 
 **HSC** | K.C.M Matric.Hr. Sec School, Nilakottai | 92.6%
 
@@ -121,16 +134,18 @@ I'm an aspiring Data Analyst and AI enthusiast with a strong foundation in stati
 [![Email](https://img.shields.io/badge/Email-inevitablehari@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:inevitablehari@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hari-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-3125h/)
 [![GitHub](https://img.shields.io/badge/GitHub-theoharx-181717?style=flat&logo=github&logoColor=white)](https://github.com/theoharx)
-
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209962399767-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919962399767)
 
 ---
 
 ## 🌟 What I'm Currently Doing
 
-- 🔬 Exploring advanced deep learning architectures and ensemble methods
-- 🌍 Building ML solutions that make a real-world impact
-- 📚 Learning and mastering new tools and technologies
-- 💡 Contributing to open-source ML projects
+- 🤖 Building intelligent systems with RAG and vector databases
+- 🧠 Exploring advanced LLM architectures and fine-tuning techniques
+- 🔬 Developing deep learning models for healthcare and agriculture
+- 📊 Creating data-driven insights using advanced analytics and visualization
+- 💡 Contributing to open-source AI/ML projects
+- 🌍 Solving real-world problems through end-to-end ML pipelines
 
 ---
 
