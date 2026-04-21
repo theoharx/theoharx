@@ -1,6 +1,6 @@
 # Hi, I'm Hariharan S! 👋
 
-## AI Engineer | Data Scientist | 3rd Year BTech Student | Problem Solver
+## AI Engineer | Data Scientist | 3rd Year BTech Student of Artificial intelligence and Data Science
 
 I'm a 3rd-year B.Tech student in Artificial Intelligence and Data Science with a strong foundation in statistics, machine learning, deep learning, and big data analytics. As both an AI Engineer and Data Scientist, I'm passionate about building end-to-end data preprocessing pipelines, developing intelligent systems using advanced AI technologies like RAG and vector databases, and solving real-world problems at scale.
 
@@ -134,7 +134,6 @@ I'm a 3rd-year B.Tech student in Artificial Intelligence and Data Science with a
 [![Email](https://img.shields.io/badge/Email-inevitablehari@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:inevitablehari@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hari-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-3125h/)
 [![GitHub](https://img.shields.io/badge/GitHub-theoharx-181717?style=flat&logo=github&logoColor=white)](https://github.com/theoharx)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209962399767-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919962399767)
 
 ---
 
